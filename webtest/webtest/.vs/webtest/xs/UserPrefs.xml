@@ -1,0 +1,17 @@
+﻿<Properties StartupConfiguration="{F2A580B7-0240-4877-9B1F-F25A415D7D28}|">
+  <MonoDevelop.Ide.ItemProperties.webtest PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.webtest.Tests FirstBuild="True" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="webtest/master.master">
+    <Files>
+      <File FileName="webtest/Default.aspx" Line="10" Column="9" />
+      <File FileName="webtest/Default.aspx.cs" Line="13" Column="24" />
+      <File FileName="webtest/master.master" Line="11" Column="8" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
